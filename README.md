@@ -1,1 +1,1 @@
-# pima-Diabetes-Machine-Learning-project
+# Machin Learning Project
